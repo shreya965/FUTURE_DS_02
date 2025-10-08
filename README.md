@@ -1,11 +1,11 @@
-Social Media Campaign Insights Dashboard
-Overview
+## Social Media Campaign Insights Dashboard
+### Overview
 
 This repository contains the code for the Social Media Campaign Insights Dashboard that enables users to analyze and track key performance indicators (KPIs) of social media campaigns. The dashboard visualizes crucial campaign data including Ad Spend, Products Sold, Return on Investment (ROI), Click-Through Rate (CTR), and Cost Per Click (CPC) across multiple marketing channels.
 
 The dashboard is designed for digital marketing teams, business owners, or anyone involved in campaign performance analysis. It provides a clear, interactive, and comprehensive way to view campaign metrics and adjust strategies accordingly.
 
-Features
+### Features
 
 Comprehensive Campaign Metrics: Visualizes the key performance indicators (KPIs) such as Ad Spend, Products Sold, ROI, CTR, and CPC.
 
@@ -17,7 +17,7 @@ Interactive Visuals: Offers dynamic charts (e.g., bar charts) to represent ad sp
 
 Easy to Use: The dashboard provides a user-friendly interface with intuitive controls to filter and navigate through campaign data.
 
-Dashboard Components
+### Dashboard Components
 
 Total Ad Spend: Displays the total ad spend across all channels (e.g., $891.75K).
 
@@ -29,7 +29,7 @@ CTR: Displays the Click-Through Rate (e.g., 10%).
 
 CPC: Shows the cost per click (e.g., $1).
 
-Charts and Visualizations:
+### Charts and Visualizations:
 
 Ad Spend by Channel: Bar chart displaying the amount of ad spend across multiple channels.
 
